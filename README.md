@@ -6,7 +6,7 @@ This Power BI report presents an in-depth analysis of sales data over four month
 ABC Company is an online retail store that allows customers to place orders for various products. The company delivers products as quickly as possible based on the customer's location. Customers can choose between cash on delivery or online payment options while ordering. The company also offers a 10-day return policy.
 
 ## Dataset Information
-Dataset Information
+The dataset consists of four CSV files, each representing one month of sales data, and they are included in this GitHub repository.
 
 Data Columns
 
